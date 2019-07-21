@@ -18,6 +18,6 @@ minimum dapat diraih dengan mengurangi nilai titik tersebut dengan nilai gradien
    
 ### Output:
     
-    1. Menampilkan nilai minimum dari x_baru yang sudah dihitung dengan algoritma ini.
-    2. Menampilkan jumlah steps yang dibangun dengan fungsi algoritma ini.
+    1. Menampilkan nilai minimum dari x_baru yang sudah dihitung.
+    2. Menampilkan jumlah steps yang dibangun dengan fungsi yang diberikan.
     3. Plot sebuah grafik yang menampilkan slope hasil dari gradient descent ini.
