@@ -62,6 +62,3 @@ def step(x_baru, x_lama, presisi, lr):
 
 
 step(0.15, 0.1, 0.001, 0.05)
-
-
-
